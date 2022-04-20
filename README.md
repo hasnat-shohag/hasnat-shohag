@@ -16,7 +16,7 @@ Hi I'm Hasnat Shohag👋
 ⚡ Fun fact always try to learn new things
 
 
-<h1> Languages and Tools:</h1>
+# Languages and Tools:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width: 100%;" width="40" height="40">
 
