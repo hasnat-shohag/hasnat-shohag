@@ -3,7 +3,7 @@ Hi I'm Hasnat Shohag👋
 
 🔭 I’m currently working on some design project
 
-🌱 I’m currently learning php
+🌱 I’m currently learning java GUI
 
 👯 I’m looking to collaborate on some open source projects
 
