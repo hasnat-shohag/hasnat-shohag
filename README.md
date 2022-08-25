@@ -19,8 +19,8 @@ Hi I'm Hasnat Shohag👋
 # Languages and Tools:
 <div>
 
-<img src=<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width: 100%;" width="40" height="40"> alt="html5" style="max-width: 100%;" width="40" height="40">
-
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="max-width: 100%;" width="40" height="40">
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;" width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="max-width: 100%;" width="40" height="40">
