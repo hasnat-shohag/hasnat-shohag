@@ -43,6 +43,7 @@ Hi I'm Hasnat Shohag👋
 💬 Ask me about js
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hasnat-shohag/)
+
 ⚡ Fun fact always try to learn new things
 
 ---
