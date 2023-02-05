@@ -32,9 +32,9 @@
 
 Hi I'm Hasnat Shohag👋 
 
-🔭 I’m currently working on some design project
+🔭 I’m currently working on developing problem solving skill
 
-🌱 I’m currently learning NodeJs
+🌱 I’m currently learning DSA
 
 👯 I’m looking to collaborate on some open source projects
 
