@@ -32,11 +32,11 @@
 
 Hi I'm Hasnat Shohag👋 
 
-🔭 I’m currently working on developing problem solving skill
+🔭 I’m currently working on developing `React` skill
 
-🌱 I’m currently learning DSA
+🌱 I’m currently learning `Go`
 
-👯 I’m looking to collaborate on some open source projects
+👯 I’m looking to collaborate on some open-source projects
 
 👨‍💻 All of my projects are available at <a href="https://github.com/hasnat-shohag?tab=repositories">here</a>
 
@@ -54,13 +54,15 @@ Hi I'm Hasnat Shohag👋
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;" width="40" height="40">
 
-<img src="https://avatars.githubusercontent.com/u/69631?s=48&v=4" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" style="max-width: 100%;" width="40" height="40">
 
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alg="c" style="max-width: 100%;" width="40" height="40">
   
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alg="cpp" style="max-width: 100%;" width="40" height="40">
 
-<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"  style="max-width: 100%;" width="40" height="40">
+<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alg="java"  style="max-width: 100%;" width="40" height="40">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" alt="Golang" style="max-width: 100%;" width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width: 100%;" width="40" height="40">
 
