@@ -28,7 +28,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 Hi I'm Hasnat Shohag👋 
 
@@ -48,13 +48,17 @@ Hi I'm Hasnat Shohag👋
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;" width="40" height="40">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" style="max-width: 100%;" width="40" height="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" style="max-width: 100%;" color= "blue" width="40" height="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" style="max-width: 100%; " width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alg="c" style="max-width: 100%;" width="40" height="40">
   
@@ -80,7 +84,7 @@ Hi I'm Hasnat Shohag👋
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasnat-shohag&theme=dark&background=000000)](https://git.io/streak-stats)
 
