@@ -86,6 +86,8 @@ Hi I'm Hasnat Shohag👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-shohag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username=Hasnat_Shohag" alt="HackerRank Card"/>
+
 ## Snake eating my contribution graph
 
 ![snake gif](https://github.com/hasnat-shohag/hasnat-shohag/blob/output/github-contribution-grid-snake.gif)
